@@ -21,8 +21,8 @@
       "required": true
     }
   },
-  "website": "https://github.com/gsfdfse432/rsfsa",
-  "repository": "https://github.com/gsfdfse432/rsfsa",
+  "website": "https://github.com/TyreseTyrese/maomao",
+  "repository": "https://github.com/TyreseTyrese/maomao",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
